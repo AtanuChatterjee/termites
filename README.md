@@ -12,11 +12,11 @@ Participants are tasked with developing an algorithm to effectively track termit
 
 ## Training Videos
 
-The Dropbox link provided [here](https://www.dropbox.com/scl/fo/5av213chivoadlzky7yzu/AK3eSUc__VNk_Bzv3-XRWEQ?rlkey=p0m258ja85r29iudv4tz8hc01&st=jj5gbvgp&dl=0) contains three training datasets for participants to annotate termites and train their tracking model. While the videos have been made publicly accessible, we kindly ask participants to refrain from sharing them outside the Georgia Tech community.
+The Dropbox link provided [here](https://www.dropbox.com/scl/fo/5av213chivoadlzky7yzu/AK3eSUc__VNk_Bzv3-XRWEQ?rlkey=p0m258ja85r29iudv4tz8hc01&st=jj5gbvgp&dl=0) contains **three** training datasets for participants to annotate termites and train their tracking model. While the videos have been made publicly accessible, we kindly ask participants to refrain from sharing them outside the Georgia Tech community.
 
 ## Validation Videos
 
-The Dropbox link provided [here](https://www.dropbox.com/scl/fo/5av213chivoadlzky7yzu/AK3eSUc__VNk_Bzv3-XRWEQ?rlkey=p0m258ja85r29iudv4tz8hc01&st=jj5gbvgp&dl=0) also includes one validation dataset for participants to use in testing their model. 
+The Dropbox link provided [here](https://www.dropbox.com/scl/fo/5av213chivoadlzky7yzu/AK3eSUc__VNk_Bzv3-XRWEQ?rlkey=p0m258ja85r29iudv4tz8hc01&st=jj5gbvgp&dl=0) also includes **one** validation dataset for participants to use in testing their model. 
 
 ## Submission
 
