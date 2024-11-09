@@ -3,7 +3,12 @@
 Participants are tasked with developing an algorithm to effectively track termites in a "traffic jam" scenario, where each termite must be uniquely identified and tracked throughout a video. The participants will be given three training and one validation video of termites moving in a confined space; your code should assign a unique ID to each termite and accurately record its $x$ and $y$ coordinates at every frame. The performance of your code will be evaluated on similar videos to ensure that it is robust and generalizable. We will make the training and validation videos public to all participants; however, the judging videos will be kept private. 
 
 * participants are given **one month** to complete their submissions from the competition’s start date: November 20, 2024
-* the winning participant (or the team) will receive a cash prize of **1000 USD** 
+* the winning participant (or the team) will receive a cash prize of **1000 USD**
+  
+<p align="center">
+  <img src="https://github.com/AtanuChatterjee/termites/blob/main/image.png" width="450"/>
+</p>
+<p align="center"><em>Termites in a crowded channel</em></p>
 
 ## Training Videos
 
